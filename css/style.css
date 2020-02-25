@@ -1,0 +1,475 @@
+
+.bck{
+ 
+					 	background-color: #F4F9F9;
+					 	border-radius: 17px;
+					 	margin-top: -80px;
+					 	padding-top: 70px;
+ 				}	
+
+ 
+.bck p{
+
+	 	font-size: 15px;
+		font-family: 'Roboto', sans-serif;
+}
+
+
+
+.signin{
+		background-color: #264AA6;
+}
+/*.....vasanthy(login button color).........*/
+.button-bgcolor{
+background-color: #FF5271;
+}
+/*...........................................*/
+
+.fa-hint{
+
+	color: rgba(143, 143, 143, 0.6);
+}
+
+
+.flag-hint{
+
+			right:100%;
+			top:5px;
+			height: auto;
+}
+.tick-hint {
+
+	left:102%;
+	top:10px;
+	
+}
+.upload-hint{
+
+			right: 150%;
+			top:20px;
+			color: #8F8F8F;
+			width: 90px;
+			font-size: 12px;
+}
+
+.btn-size{
+
+			width:301px;
+}
+
+.plusicon{
+
+			right:60%;
+			top: 15%;
+}
+
+.wrap-p{
+
+	padding-top:40px;
+}
+
+.bck-dash{
+ 
+					 	background-color: #F4F9F9;
+					 	border-radius: 10px;
+					 	height: auto;
+
+					 	
+ 				}	
+
+
+.bck-dash>div>p{
+
+		color:#939393;
+}
+
+.bottom-border{
+
+	border-bottom-width:0!important;
+}
+
+.dash-hint{
+
+	color: #A5B6C7;
+}
+
+
+
+/*carousel starts*/
+
+
+.corosel-cntrl{
+
+left: 140px;
+
+}
+.back-carousel{
+
+	background-color:  #F4F9F9;
+	width: 290px;
+	padding-top: 25px!important;
+	border-radius: 15px;
+	margin-top:15px;
+}
+
+.col-center {
+	margin-left: 0px;
+	float: none !important;
+}
+.carousel {
+	margin: 50px auto;
+	padding: 0 40px;
+}
+.carousel .item {
+	color: #999;
+	font-size: 14px;
+    text-align: center;
+	overflow: hidden;
+    min-height: 290px;
+}
+.carousel .item .img-box {
+	width: 58px;
+	height: 58px;
+	margin: 0 auto;
+	
+}
+.carousel .img-box img {
+	width: 100%;
+	height: 100%;
+	display: block;
+	border-radius: 50%;
+}
+.carousel .testimonial {
+	padding: 10px 0 10px;
+}
+.carousel .overview {	
+	font-style: italic;
+}
+.carousel .overview b {
+	text-transform: uppercase;
+	color: #7AA641;
+}
+.carousel .carousel-control {
+	width: 40px;
+    height: 40px;
+    margin-top: -10px;
+	background: none;
+}
+.carousel-control i {
+    font-size: 30px;
+	line-height: 42px;
+    position: absolute;
+    display: inline-block;
+	color: rgba(0, 0, 0, 0.8);
+    text-shadow: 0 3px 3px #e6e6e6, 0 0 0 #000;
+}
+.carousel .carousel-indicators {
+	bottom: -40px;
+}
+.carousel-indicators li, .carousel-indicators li.active {
+	width: 10px;
+	height: 10px;
+	margin: 1px 3px;
+	border-radius: 50%;
+}
+.carousel-indicators li {	
+	background: #999;
+	border-color: transparent;
+	box-shadow: inset 0 2px 1px rgba(0,0,0,0.2);
+}
+.carousel-indicators li.active {	
+	background: #555;		
+	box-shadow: inset 0 2px 1px rgba(0,0,0,0.2);
+}
+
+/*--------------right bar------------------*/
+
+.right-hint{
+
+	background-color: #F4F9F9;
+	border-radius: 10px;
+
+}
+
+.tick-right-bar {
+
+	font-size: 13px;
+	right: 100%;
+	top:15px;
+	
+}
+.tick-right-bar1 {
+
+	font-size: 5px;
+	right: 100%;
+	top:15px;	
+}
+
+
+/*Author:Juna Mathew*/
+.font-hint{
+		font-size: 15px;
+		font-family: 'Roboto', sans-serif;
+}
+
+
+
+
+.text-colour{
+color:#525252;
+}
+.border-colour{
+border:1px solid #D4DDE6!important;
+}
+/*...................................................*/
+
+
+.badg-hint{
+
+	position:absolute;
+	margin-top:-10px!important;
+	margin-left:-16px!important;
+	
+}
+.admin-position{
+	position:absolute;
+	margin-top:-20px;
+	margin-left:55px;
+}
+.dropdown-message{
+	margin-right:9rem!important;
+}
+.dropdown-notification{
+	margin-right:4rem!important;
+}
+.bg-sec2{
+	background-color: #F4F9F9;
+}
+.text-high{
+	color: #A5B6C7;
+	font-size:10px;
+}
+.bg-sec2 div>p{
+	color:#6f6f6f;
+}
+.text-black{
+	color:#000000;
+}
+.font-20{
+	font-size:20px;
+}
+.font-17.5{
+	font-size:17.5px;
+}
+.font-10{
+	font-size:10px;
+
+}
+.font-13{
+	font-size:13px;
+}
+.font-14{
+	font-size:14px;
+}
+.font-12{
+	font-size:12px;
+}
+.font-15{
+	font-size:15px;
+}
+.list-group-flush li a{
+	font-size:15px;
+	font-family:Roboto;
+}
+.font-25{
+	font-size:25px;
+}
+.font-9c9c9c{
+	color:#9c9c9c;
+}
+
+
+/*--Ancy A, Athira S and Vishnu---*/
+*{
+		font-family:roboto;
+}
+.font-p-style{
+		font-size:15px;
+}
+.font-p{
+		font-size:14px;
+		line-height: 150%;
+}
+.font-size{
+		font-size:30px;
+}
+.font-style{
+		font-size:20px;
+}
+.line-height{
+	line-height: 160%;
+}
+.line-height1{
+	line-height: 150%;
+}
+
+.bg-blue{
+background-color: #305995 !important;
+}
+.text-blue{
+color: #305995 !important;
+}
+.light-dark{
+	color:#5A5A5A;
+}
+.text-color{
+	color:#8D8D8D;
+}
+
+/*--------------Juna, Sijo, Aswathy-------*/
+.card-size{
+	width:300px;
+}
+.card-img-size{
+	width:50px;
+}
+
+
+/*..........recent orders page...........
+.bordered-deep-purple::-webkit-scrollbar-track {
+-webkit-box-shadow: none;
+border: 1px solid black; }
+
+.bordered-deep-purple::-webkit-scrollbar-thumb {
+-webkit-box-shadow: none; }*/
+.scrollbar-ripe-malinka::-webkit-scrollbar-track {
+
+background-color: #FFFFFF;
+border-radius: 10px; }
+
+.scrollbar-ripe-malinka::-webkit-scrollbar {
+width: 12px;
+background-color: #F5F5F5; }
+
+.scrollbar-ripe-malinka::-webkit-scrollbar-thumb {
+border-radius: 10px;
+
+
+background-image: linear-gradient(120deg, #D3D3D3 100%, #f5576c 0%); }
+.my-custom-scrollbar {
+  position: relative;
+  
+  height: 250px;
+  overflow-y: scroll;
+}
+.thin::-webkit-scrollbar {
+width: 6px; }
+
+@media (max-width:576px)
+{
+
+		.bck h2{
+
+				 	font-size:15px;
+				 	font-family: 'Roboto', sans-serif;
+				 	font-weight: bold;
+
+				}
+
+		.bck{
+ 
+				 	 background-color: #F4F9F9;
+				 	 border-radius: 17px;
+				 	 margin-top: -50px;
+ 			}
+
+ 			.tick-right-bar1 {
+
+					font-size: 10px;
+					right: 100%;
+					top:15px;
+	
+			}
+			.badg-hint{
+
+					position:absolute;
+					margin-top:-10px!important;
+					margin-left:-5px!important;
+					
+			}
+ 		}
+
+
+
+
+
+@media (max-width:768px)
+			{
+
+		.bck h2{
+
+					 	font-size:35px;
+					 	font-family: 'Roboto', sans-serif;
+					 	font-weight: bold;
+ 				}
+
+ 		.bck{
+ 
+					 	background-color: #F4F9F9;
+					 	border-radius: 17px;
+					 	margin-top: -50px;
+ 				}	
+
+ 				.net{
+							width:250px;
+				}
+ 			}
+ 
+
+@media (max-width:992px)
+
+{
+
+	.upload-hint{
+
+						right: 70%;
+						top:20px;
+						color: #8F8F8F;
+						width: 90px;
+						font-size: 12px;
+				}
+	
+
+
+}
+
+@media (min-width:768px)
+{
+
+	.flag-hint{
+
+						position: absolute;
+				}
+
+.w-hint{
+
+		width: 100% !important;
+	}
+	
+}
+
+@media (min-width:768px) and (max-width:992px)
+{
+	.badg-hint{
+
+					position:absolute;
+					margin-top:-5px!important;
+					margin-left:-15px!important;
+					
+			}
+	
+}
+@media (max-width:768px){
+		.font-control {font-size:10px;
+  }
+}
